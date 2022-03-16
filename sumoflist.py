@@ -8,7 +8,7 @@ class solutions:
             i=i+1;
         return sum_of_list
 a=[]
-n=int(input("Enter the  size  of list"))
+n=int(input("Enter the size of list"))
 for i in range(0,n):
       element=int(input())
       a.append(element)
